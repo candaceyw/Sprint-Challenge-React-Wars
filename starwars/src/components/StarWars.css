@@ -55,3 +55,22 @@ ul.list-group.mb-4{
     color: rgb(97, 72, 25);
 }
 
+button {
+    padding: 10px;
+   
+  
+}
+.page-link {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: rgba(38, 37, 37, 0.831);
+}
+.page-link:hover {
+color: white;
+}
+
+button:hover {
+    background-color: rgba(94, 1, 1, 0.831);
+    
+
+}
